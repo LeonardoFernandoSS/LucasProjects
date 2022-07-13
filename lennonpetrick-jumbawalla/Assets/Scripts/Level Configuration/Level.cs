@@ -1,0 +1,48 @@
+﻿using UnityEngine;
+using System.Collections;
+
+public enum Level {
+
+	neocubo,
+	menu,
+	intro,
+	loading,
+	shop,
+	inventory,
+	win,
+	fase01_1,
+	fase01_2,
+	fase01_3,
+	fase02_1,
+	fase02_2,
+	fase02_3,
+	fase03_1,
+	fase03_2,
+	fase03_3,
+	fase04_1,
+	fase04_2,
+	fase04_3,
+	fase05_1,
+	fase05_2,
+	fase05_3,
+	fase06_1,
+	fase06_2,
+	fase06_3,
+	fase07_1,
+	fase07_2,
+	fase07_3,
+	fase08_1,
+	fase08_2,
+	fase08_3,
+	fase09_1,
+	fase09_2,
+	fase09_3,
+	fase10_1,
+	fase10_2,
+	fase10_3,
+	fase11_1,
+	fase11_2,
+	fase11_3,
+	finalScene
+
+}

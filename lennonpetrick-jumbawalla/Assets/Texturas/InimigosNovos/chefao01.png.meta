@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 2f0acbf23df2949b5b7de247777afcb9
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 10
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -1
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: chefao01_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 324
+        width: 169
+        height: 188
+      alignment: 9
+      pivot: {x: .491423666, y: .384356558}
+    - name: chefao01_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 387
+        width: 76
+        height: 125
+      alignment: 9
+      pivot: {x: .499999791, y: .749296606}
+    - name: chefao01_2
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 363
+        width: 90
+        height: 148
+      alignment: 9
+      pivot: {x: .5, y: .754624248}
+    - name: chefao01_3
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 387
+        width: 90
+        height: 125
+      alignment: 9
+      pivot: {x: .46779108, y: .75509423}
+    - name: chefao01_4
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 268
+        width: 81
+        height: 92
+      alignment: 9
+      pivot: {x: .5, y: .752069533}
+    - name: chefao01_5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 182
+        width: 46
+        height: 86
+      alignment: 9
+      pivot: {x: .547262788, y: .196637884}
+    - name: chefao01_6
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 188
+        width: 125
+        height: 73
+      alignment: 9
+      pivot: {x: .807272196, y: .500000417}
+    - name: chefao01_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 117
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: chefao01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 218
+        width: 177
+        height: 104
+      alignment: 9
+      pivot: {x: .536849082, y: .848413348}
+    - name: chefao01_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 187
+        width: 111
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: chefao01_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 181
+        height: 38
+      alignment: 9
+      pivot: {x: .844332218, y: .576284289}
+    - name: chefao01_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 274
+        width: 63
+        height: 112
+      alignment: 9
+      pivot: {x: .453987241, y: .778232872}
+    - name: chefao01_12
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 262
+        width: 73
+        height: 124
+      alignment: 9
+      pivot: {x: .53970921, y: .798061967}
+    - name: chefao01_13
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 281
+        width: 82
+        height: 99
+      alignment: 9
+      pivot: {x: .429297477, y: .741566658}
+    - name: chefao01_14
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 387
+        width: 79
+        height: 120
+      alignment: 9
+      pivot: {x: .454132855, y: .644939959}
+    - name: chefao01_15
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 369
+        height: 180
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: chefao01_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 120
+        width: 71
+        height: 62
+      alignment: 9
+      pivot: {x: .540828049, y: .18440567}
+    - name: chefao01_17
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 129
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,206 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 529336600, guid: 289bab7cc27a12745b5df9b71d7b06c4, type: 3}
+  m_Name: armas
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: bd30e1c68a3f5417690528b9f9773756, type: 2}
+  uvs:
+  - serializedVersion: 2
+    x: .284179688
+    y: .609375
+    width: .274414062
+    height: .137695312
+  - serializedVersion: 2
+    x: .568359375
+    y: .610351562
+    width: .138671875
+    height: .138671875
+  - serializedVersion: 2
+    x: .716796875
+    y: .461914062
+    width: .138671875
+    height: .138671875
+  - serializedVersion: 2
+    x: .568359375
+    y: .461914062
+    width: .138671875
+    height: .138671875
+  - serializedVersion: 2
+    x: .284179688
+    y: .756835938
+    width: .138671875
+    height: .138671875
+  - serializedVersion: 2
+    x: 0
+    y: 0
+    width: .3125
+    height: .157226562
+  - serializedVersion: 2
+    x: .284179688
+    y: .461914062
+    width: .274414062
+    height: .137695312
+  - serializedVersion: 2
+    x: .568359375
+    y: .314453125
+    width: .274414062
+    height: .137695312
+  - serializedVersion: 2
+    x: .284179688
+    y: .314453125
+    width: .274414062
+    height: .137695312
+  - serializedVersion: 2
+    x: .568359375
+    y: .166992188
+    width: .274414062
+    height: .137695312
+  - serializedVersion: 2
+    x: .284179688
+    y: .166992188
+    width: .274414062
+    height: .137695312
+  - serializedVersion: 2
+    x: 0
+    y: .756835938
+    width: .274414062
+    height: .137695312
+  - serializedVersion: 2
+    x: 0
+    y: .609375
+    width: .274414062
+    height: .137695312
+  - serializedVersion: 2
+    x: 0
+    y: .461914062
+    width: .274414062
+    height: .137695312
+  - serializedVersion: 2
+    x: 0
+    y: .314453125
+    width: .274414062
+    height: .137695312
+  - serializedVersion: 2
+    x: 0
+    y: .166992188
+    width: .274414062
+    height: .137695312
+  - serializedVersion: 2
+    x: .606445312
+    y: 0
+    width: .274414062
+    height: .137695312
+  - serializedVersion: 2
+    x: .322265625
+    y: 0
+    width: .274414062
+    height: .137695312
+  textureGUIDs:
+  - a89c7978d45d941e5aa58509f33a1b5f
+  - fc3f59b484cd340058c936fa76d54fc1
+  - d3436697295cc4c91a398d9f3ea21cd9
+  - 8c7be11dce55645a09556174aeeb82e2
+  - c582e4e3c3c8d4577890bf59589fe064
+  - 430cb3f2796ba4953a7fd2b8fe0d763f
+  - 6a00bbb383bcf471bbd6cc63902c1536
+  - f4967ee3a321441ca8e80fde121c9b2a
+  - e17ce9c4f672f4572a3163d3822315a0
+  - 25843eb7bd5e142019a5ca41ee1530b5
+  - 0d4e6dd89b14b4782bed227a2fbebe81
+  - eaa5e2493bbe2428984c65e132f81820
+  - 0505b5c9f38cd4199aa06046c3fb658e
+  - 400b9ff976b004313b189fbbe0927f5c
+  - aec3962bbd4e240e6911858e5ec17d79
+  - df70995bc6e0245af917cc3cc0a36005
+  - 1c5c7ede55b62458c9215822e84dc1ce
+  - f35e1d4f71518414e82121dc9ac72bff
+  textureSizes:
+  - {x: 281, y: 141}
+  - {x: 142, y: 142}
+  - {x: 142, y: 142}
+  - {x: 142, y: 142}
+  - {x: 142, y: 142}
+  - {x: 320, y: 161}
+  - {x: 281, y: 141}
+  - {x: 281, y: 141}
+  - {x: 281, y: 141}
+  - {x: 281, y: 141}
+  - {x: 281, y: 141}
+  - {x: 281, y: 141}
+  - {x: 281, y: 141}
+  - {x: 281, y: 141}
+  - {x: 281, y: 141}
+  - {x: 281, y: 141}
+  - {x: 281, y: 141}
+  - {x: 281, y: 141}
+  defaultPivotOffsets:
+  - {x: -.33214286, y: -.293598026}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: -.364285737, y: -.319432139}
+  - {x: -.326785713, y: -.352317631}
+  - {x: -.342857122, y: -.341641337}
+  - {x: -.396428555, y: -.320288748}
+  - {x: -.342857122, y: -.213525832}
+  - {x: -.348214269, y: -.341641337}
+  - {x: -.375, y: -.309612453}
+  - {x: -.326785713, y: -.341641337}
+  - {x: -.348214269, y: -.352317631}
+  - {x: -.375, y: -.320288748}
+  - {x: -.33214286, y: -.25623101}
+  - {x: -.364285707, y: -.277583569}
+  - {x: -.348214269, y: -.245554715}
+  textureNames:
+  - purrete
+  - vento3
+  - vento4
+  - vento2
+  - vento1
+  - arma04
+  - arma09
+  - arma13
+  - arma08
+  - arma11
+  - arma12
+  - arma01
+  - arma07
+  - arma06
+  - arma05
+  - arma02
+  - arma03
+  - arma10
+  texturePaths:
+  - Assets/Texturas/jumba/purrete.png
+  - Assets/Texturas/jumba/vento3.png
+  - Assets/Texturas/jumba/vento4.png
+  - Assets/Texturas/jumba/vento2.png
+  - Assets/Texturas/jumba/vento1.png
+  - Assets/Resources/Armas/arma04.png
+  - Assets/Resources/Armas/arma09.png
+  - Assets/Resources/Armas/arma13.png
+  - Assets/Resources/Armas/arma08.png
+  - Assets/Resources/Armas/arma11.png
+  - Assets/Resources/Armas/arma12.png
+  - Assets/Resources/Armas/arma01.png
+  - Assets/Resources/Armas/arma07.png
+  - Assets/Resources/Armas/arma06.png
+  - Assets/Resources/Armas/arma05.png
+  - Assets/Resources/Armas/arma02.png
+  - Assets/Resources/Armas/arma03.png
+  - Assets/Resources/Armas/arma10.png
+  lastBuildID: 20140117115717120
+  needsRebuilt: 0
+  dataVersion: 4
+  maxAtlasSize: 1024
+  padding: 10
+  forceSquare: 0

@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 529336600, guid: 289bab7cc27a12745b5df9b71d7b06c4, type: 3}
+  m_Name: roupa01
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 22dd49874b8914876986ec52eecc53d6, type: 2}
+  uvs:
+  - serializedVersion: 2
+    x: .4921875
+    y: .275390625
+    width: .100585938
+    height: .3046875
+  - serializedVersion: 2
+    x: .3125
+    y: .212890625
+    width: .130859375
+    height: .28125
+  - serializedVersion: 2
+    x: .797851562
+    y: 0
+    width: .06640625
+    height: .25390625
+  - serializedVersion: 2
+    x: .4921875
+    y: 0
+    width: .120117188
+    height: .2734375
+  - serializedVersion: 2
+    x: 0
+    y: .599609375
+    width: .120117188
+    height: .337890625
+  - serializedVersion: 2
+    x: .3125
+    y: .7109375
+    width: .115234375
+    height: .28515625
+  - serializedVersion: 2
+    x: .181640625
+    y: .658203125
+    width: .114257812
+    height: .29296875
+  - serializedVersion: 2
+    x: .181640625
+    y: 0
+    width: .129882812
+    height: .302734375
+  - serializedVersion: 2
+    x: 0
+    y: 0
+    width: .180664062
+    height: .30859375
+  - serializedVersion: 2
+    x: .704101562
+    y: 0
+    width: .0927734375
+    height: .212890625
+  - serializedVersion: 2
+    x: .865234375
+    y: 0
+    width: .103515625
+    height: .1484375
+  - serializedVersion: 2
+    x: .61328125
+    y: .2578125
+    width: .068359375
+    height: .298828125
+  - serializedVersion: 2
+    x: 0
+    y: .310546875
+    width: .145507812
+    height: .287109375
+  - serializedVersion: 2
+    x: .3125
+    y: .49609375
+    width: .163085938
+    height: .212890625
+  - serializedVersion: 2
+    x: .181640625
+    y: .3046875
+    width: .107421875
+    height: .3515625
+  - serializedVersion: 2
+    x: .4921875
+    y: .58203125
+    width: .0927734375
+    height: .328125
+  - serializedVersion: 2
+    x: .3125
+    y: 0
+    width: .178710938
+    height: .2109375
+  - serializedVersion: 2
+    x: .61328125
+    y: 0
+    width: .08984375
+    height: .255859375
+  - serializedVersion: 2
+    x: .682617188
+    y: .2578125
+    width: .1171875
+    height: .130859375
+  textureGUIDs:
+  - 0edfefa90e0e94de9ba953bf0ce303a7
+  - 1702749eeb6db4af9b55a0ae50bc3137
+  - 1fa765a901e9943298101a01498a8017
+  - 229ca6950dcee4401b8e6ec52d32e375
+  - 3e7b1890ee3f246ccb82c08d2dc236cb
+  - 4d22bae0d72074000a05422ff91fbff7
+  - 4e0f7c0da368344378d808cb10d840f3
+  - 63c3aaa34e94d4028819ac22273ba224
+  - 64e6f11c5c6084bc080d8e992eac7e82
+  - 74291256936df4df2b7ba1728bb11ddf
+  - 753fcae4768714e649c01d0c993803c1
+  - 99b8fb2075d384953b3552a432297d8b
+  - 99c15774ff30d4bbdbf928f609c0fe23
+  - a192966a887644ab2a6e4dc74e7e2b62
+  - b7ca74edf5f9a4532affd71d66024958
+  - d158ea5581c994c0090d2cae735e856e
+  - d4abe473e93244414b0d6e706f7a3b0d
+  - d8ac097523cb64a17bfee957bb26a121
+  - f448a0235da5247e281cc3949dbfe189
+  textureSizes:
+  - {x: 103, y: 156}
+  - {x: 134, y: 144}
+  - {x: 68, y: 130}
+  - {x: 123, y: 140}
+  - {x: 123, y: 173}
+  - {x: 118, y: 146}
+  - {x: 117, y: 150}
+  - {x: 133, y: 155}
+  - {x: 185, y: 158}
+  - {x: 95, y: 109}
+  - {x: 106, y: 76}
+  - {x: 70, y: 153}
+  - {x: 149, y: 147}
+  - {x: 167, y: 109}
+  - {x: 110, y: 180}
+  - {x: 95, y: 168}
+  - {x: 183, y: 108}
+  - {x: 92, y: 131}
+  - {x: 120, y: 67}
+  defaultPivotOffsets:
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: .0160714276, y: -.239032269}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  - {x: 0, y: 0}
+  textureNames:
+  - colar
+  - "cabe\xE7a1"
+  - colar2
+  - pe esq
+  - mao esquerda
+  - pe dir e esq
+  - pe dir
+  - "cabe\xE7a"
+  - peitoral
+  - perna esq
+  - rabo
+  - "bra\xE7o esq"
+  - corpo2
+  - saia2
+  - mao direita
+  - "bra\xE7o dir"
+  - saia1
+  - perna dir
+  - cintura
+  texturePaths:
+  - Assets/Texturas/Roupas e Armas/roupa1/colar.png
+  - "Assets/Texturas/Roupas e Armas/roupa1/cabe\xE7a1.png"
+  - Assets/Texturas/Roupas e Armas/roupa1/colar2.png
+  - Assets/Texturas/Roupas e Armas/roupa1/pe esq.png
+  - Assets/Texturas/Roupas e Armas/roupa1/mao esquerda.png
+  - Assets/Texturas/Roupas e Armas/roupa1/pe dir e esq.png
+  - Assets/Texturas/Roupas e Armas/roupa1/pe dir.png
+  - "Assets/Texturas/Roupas e Armas/roupa1/cabe\xE7a.png"
+  - Assets/Texturas/Roupas e Armas/roupa1/peitoral.png
+  - Assets/Texturas/Roupas e Armas/roupa1/perna esq.png
+  - Assets/Texturas/Roupas e Armas/roupa1/rabo.png
+  - "Assets/Texturas/Roupas e Armas/roupa1/bra\xE7o esq.png"
+  - Assets/Texturas/Roupas e Armas/roupa1/corpo2.png
+  - Assets/Texturas/Roupas e Armas/roupa1/saia2.png
+  - Assets/Texturas/Roupas e Armas/roupa1/mao direita.png
+  - "Assets/Texturas/Roupas e Armas/roupa1/bra\xE7o dir.png"
+  - Assets/Texturas/Roupas e Armas/roupa1/saia1.png
+  - Assets/Texturas/Roupas e Armas/roupa1/perna dir.png
+  - Assets/Texturas/Roupas e Armas/roupa1/cintura.png
+  lastBuildID: 20140107112716550
+  needsRebuilt: 0
+  dataVersion: 4
+  maxAtlasSize: 1024
+  padding: 1
+  forceSquare: 0

@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: bdea37f157ed146d7a6bd9cfc59cb3b2
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 10
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Inimigos03_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 353
+        width: 200
+        height: 156
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Inimigos03_1
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 360
+        width: 208
+        height: 150
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Inimigos03_2
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 425
+        width: 40
+        height: 80
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Inimigos03_3
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 275
+        width: 163
+        height: 53
+      alignment: 9
+      pivot: {x: .747741699, y: .660404444}
+    - name: Inimigos03_4
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 200
+        width: 97
+        height: 151
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Inimigos03_5
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 176
+        width: 151
+        height: 152
+      alignment: 9
+      pivot: {x: .593124866, y: .384711921}
+    - name: Inimigos03_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3
+        width: 76
+        height: 302
+      alignment: 9
+      pivot: {x: .527965367, y: .563338578}
+    - name: Inimigos03_7
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 204
+        width: 77
+        height: 36
+      alignment: 9
+      pivot: {x: .131971925, y: .30320698}
+    - name: Inimigos03_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 7
+        width: 239
+        height: 185
+      alignment: 9
+      pivot: {x: .46442911, y: .201300383}
+    - name: Inimigos03_9
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 7
+        width: 78
+        height: 146
+      alignment: 9
+      pivot: {x: .48183462, y: .72806412}
+    - name: Inimigos03_10
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 7
+        width: 69
+        height: 146
+      alignment: 9
+      pivot: {x: .571871579, y: .247673824}
+  spritePackingTag: 
+  userData: 
